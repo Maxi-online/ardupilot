@@ -1,3 +1,9 @@
+## Fork context
+
+This repository is a fork of [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot). The upstream documentation and license notices are retained below. Repository presence alone does not identify which changes were made by the fork maintainer; review the commit comparison for that purpose. Keep personal configuration, credentials and datasets outside Git, and use synthetic fixtures when sharing reproductions.
+
+---
+
 # ArduPilot Project
 
 [![Discord](https://img.shields.io/discord/674039678562861068.svg)](https://ardupilot.org/discord)
